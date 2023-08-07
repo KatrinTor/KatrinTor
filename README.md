@@ -18,10 +18,7 @@ Here are some ideas to get you started:
   <a href="[your-linkedin-URL](http://linkedin.com/in/katrin-torsunova)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-discord-URL">
-    <img scr="https://img.shields.io/badge/discord-blue?logo=discord&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="katrinstrikesagain">
+    <img scr="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
