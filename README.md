@@ -22,7 +22,7 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="Allure" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt=GraphQL" width="40" height="40"/>&nbsp;
   </div>
