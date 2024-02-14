@@ -3,8 +3,10 @@
   <img src="https://media.giphy.com/media/iDOIj5JxyZGarf6v6G/giphy.gif" width="100"/>
 
   ### Hi there 👋
-  I am learning automation with Python using Allure reports and Selene.
+  I automate UI and API tests with Python using Allure reports.
   Manual testing experience > 2 years.
+  
+  P.s. My repository is a bit empty, I spend all my time coding at work 😅
   
   
   <div id="badges">
