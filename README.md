@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/iDOIj5JxyZGarf6v6G/giphy.gif" width="100"/>
 
   ### Hi there 👋
-  I automate UI and API tests with Python using Allure reports.
-  Manual testing experience > 2 years.
-  
-  P.s. My repository is a bit empty, I spend all my time coding at work 😅
+
+I’m a QA Automation Engineer — I write UI & API tests in Python and make them shine with Allure reports ✨
+
+2+ years in manual testing, 2+ years in automation, always exploring new tools and approaches to level up my skills.
+
+P.S. My repository is a bit empty — I usually spend most of my coding time at work 📎
   
   
   <div id="badges">
